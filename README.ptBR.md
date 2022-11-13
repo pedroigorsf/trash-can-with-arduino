@@ -299,7 +299,7 @@ A lixeira demonstrou eficiência porém apresentou algumas falhas técnicas mas 
 
 <b>ONEDRIVE.</b> Fotos e vídeos dos etapas do projeto bem como os desafios enfretados projeto: <https://1drv.ms/u/s!Al5j0GqzI_6chf08ScOXZWsWQ1j4WA?e=h9kW0D>. Acesso em: 20 de maio de 2022.
 
- ## 🌏 Conclusão
+ ## 🌏 Conclusão 
  
  Neste artigo apresentou-se o projeto de uma lixeira automatizada utilizando componentes eletrônicos e controle por Arduino, visando facilitar a coleta ou contato direto com lixeira em ambientes hospitalares. Esta abordagem consiste na adaptação de uma lixeira convencional, de modo que a mesma possa responder a um estímulo através de um sensor de ultrassom por distância, e assim realizar o acionamento da tampa de forma automática, abrindo e fechando a lixeira sem a necessidade de contato com a mesma. Foi construído um protótipo que apresentou bastante  satisfação quanto ao trabalho desejado. E desta forma atende a solução do problema proporcionando toda automatização possível, e a garantia de conforto e independência do ambiente que a lixeira se encontra. Por fim, conclui-se que o protótipo desenvolvido neste projeto é bastante interessante, e com cunho social, trazendo um resultado bastante satisfatório.
 
