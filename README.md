@@ -10,8 +10,8 @@
 ## 💻 Choose one of the options below to read the documentation:
 
 
- - <a href="README.en-US.md">Portuguese description (pt-BR)</a>
+ - <a href="README.pt-BR.md">Portuguese description (pt-BR)</a>
  - <a href="README.en-US.md">English description (en-US)</a>
  
  
-Do you have any question? Find me on the linkedin: https://www.linkedin.com/in/pisf/
+Do you have any question? Find me on the linkedin: https://www.linkedin.com/in/pedroigorsf/
